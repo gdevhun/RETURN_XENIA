@@ -64,7 +64,9 @@
 [![STOVE Build](https://img.shields.io/badge/Download%20on-STOVE-ff7f00?style=for-the-badge&logo=windows&logoColor=white)](https://store.onstove.com/ko/games/100605)
 
 ## 유튜브 시연 영상 ▶️
-[![유튜브 풀 게임 플레이시연 영상](https://img.shields.io/badge/Youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/HUQC_mF_ZxE)
+[![게임 트레일러](https://img.shields.io/badge/Youtube-게임_트레일러-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/JKkT4Dg63dI)
+
+[![풀 플레이 시연](https://img.shields.io/badge/Youtube-풀_게임_플레이-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/HUQC_mF_ZxE)
 ## 기술 스택 💻
 <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white&color=blue">  
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=red">  
