@@ -58,7 +58,9 @@
 | 류지원 | Designer | UI, UX 디자인 |
 | 장동혁 | Composer | 게임사운드 |
 
-## STOVE 출시 링크 🔗 
+## 출시 링크 🔗 
+[![STEAM Build](https://img.shields.io/badge/Download%20on-STEAM-000000?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/app/3773990/RETURN/)
+
 [![STOVE Build](https://img.shields.io/badge/Download%20on-STOVE-ff7f00?style=for-the-badge&logo=windows&logoColor=white)](https://store.onstove.com/ko/games/100605)
 
 ## 유튜브 시연 영상 ▶️
